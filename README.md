@@ -24,7 +24,7 @@ I'm a passionate **Java Software Developer** based in Sintra, Portugal 🇵🇹,
 
 ## 🎓 Education & Certifications
 
-- 📚 Studying Computer Engineering @ University of Lisbon (1 subject left)
+- 📚 Degree in Computer Engineering @ University of Lisbon
 - 🎓 Degree in Sport Sciences @ University of Coimbra
 - 🏅 Oracle Certified Expert & Professional (Java SE & EE)
 - 🛠️ Multiple Java EE & Web Component Development courses
